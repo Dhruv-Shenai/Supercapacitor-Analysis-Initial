@@ -1,0 +1,1 @@
+This code is for analysis of GCDs (constant current density). It takes the current density, mass of electrode, the number of cycles and whether the analysis is for a +ve or -ve electrode. It then analyses it to obtain the ESR, capacitance and capacity. It should work for long cycling and respond to a decrease in peak voltage. 
